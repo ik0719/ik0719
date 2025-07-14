@@ -1,5 +1,5 @@
 <h1 align="center">🛡️ Falcon Security</h1>
-<h1 align="center">👋 R I X Y Developer</h1>
+<h1 align="center">👋 Falcon security Developer</h1>
 <p align="center">
   <b>discord Falcon Security bot v1.0</b><br>
   نظام أمني متكامل لحماية خوادم Discord وتنفيذ مهام إدارية باحترافية.
@@ -41,8 +41,7 @@
 ---
 
 ## 📫 تواصل معي:
-- Discord: [أضف يوزرك هنا]
-- GitHub: [رابط حسابك]
+- https://falconsecurtiy.netlify.app/
 - للإبلاغ عن مشكلة أو اقتراح، افتح issue في هذا الريبو
 
 ---
