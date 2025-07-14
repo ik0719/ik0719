@@ -35,6 +35,8 @@
 - JavaScript (Node.js)
 - Discord.js
 - Python (لبعض السكربتات الجانبية)
+- HTML
+- CSS
 
 ---
 
